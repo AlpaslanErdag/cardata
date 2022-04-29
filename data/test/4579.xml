@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>4579.png</filename>
+	<path>C:\Users\alpas\Downloads\windows_v1.8.0\data\4579.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pedestrian</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>160</xmin>
+			<ymin>15</ymin>
+			<xmax>232</xmax>
+			<ymax>202</ymax>
+		</bndbox>
+	</object>
+</annotation>
