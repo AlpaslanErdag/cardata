@@ -1,0 +1,29 @@
+item {
+    id: 1
+    name: 'greenlight'
+}
+
+item {
+    id: 2
+    name: 'object'
+}
+
+item {
+    id: 3
+    name: 'pedestrian'
+}
+
+item {
+    id: 4
+    name: 'redlight'
+}
+
+item {
+    id: 5
+    name: 'turnleft'
+}
+
+item {
+    id: 6
+    name: 'turnright'
+}
