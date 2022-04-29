@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>204.png</filename>
+	<path>C:\Users\alpas\Downloads\windows_v1.8.0\data\204.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pedestrian</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>263</xmin>
+			<ymin>30</ymin>
+			<xmax>313</xmax>
+			<ymax>180</ymax>
+		</bndbox>
+	</object>
+</annotation>
